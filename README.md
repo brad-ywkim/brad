@@ -21,8 +21,12 @@ I ❤️ Code, Java and Creative Software🍀
 <br/>
 
 ## 📗Education
-- 2023-2024 KH정보교육원 웹 애플리케이션 개발자 양성과정
+- KH정보교육원 웹 애플리케이션 개발자 양성과정 (Nov 2023-Apr 2024)
 
+<br/>
+
+## 🏃🏻‍♂️Activities
+- 멋쟁이 사자처럼 (Jul 2015-Sep 2015)
 
 
 
