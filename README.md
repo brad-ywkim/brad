@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello world! I'm Jade👋
+
+I ❤️ Code, Java, Python and Creating Innovative Software🍀
+
+[![Email](https://img.shields.io/badge/Email-dev.sprintkim@gmail.com-red)](mailto:dev.sprintkim@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsprintkim%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## 💻 Favorite Technologies
+- Backend Web Develop
+
 
 <!--
 **sprintkim/sprintkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
