@@ -36,7 +36,7 @@ I ❤️ Code, Java and Creative Software🍀
 <br/>
 
 ## 🏃🏻‍♂️Activities
-- 멋쟁이 사자처럼 (Jul 2015-Sep 2015)
+- 웹 Front-end 개발 - 멋쟁이 사자처럼 (Jul 2015-Sep 2015)
 
 
 
