@@ -6,7 +6,7 @@ I ❤️ Code, Java and Creative Software🍀
 
 <br/>
 
-## 💻 Favorite Technologies
+## 💻 Technologies I Love
 - Backend Web Development
 
 <br/>
@@ -29,9 +29,9 @@ I ❤️ Code, Java and Creative Software🍀
 <br/>
 
 ## 📗Education & Courses 
-- [KH정보교육원] 웹 애플리케이션 개발자 양성과정 (Nov 2023-Apr 2024)
-- [Inflearn] 스프링, 스프링 부트, JPA 실무 정복 로드맵 (Jun 2024-present)
-- [Inflearn] 데브옵스 인프라, AWS (Jun 2024-present)
+- JAVA 웹 애플리케이션 개발자 양성과정 - KH정보교육원 (Nov 2023-Apr 2024)
+- 스프링, 스프링 부트, JPA 실무 정복 로드맵 수강 - Inflearn (Jun 2024-present)
+- 데브옵스 인프라, AWS 수강 - Inflearn (Jun 2024-present)
  
 <br/>
 
