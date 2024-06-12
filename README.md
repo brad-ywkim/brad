@@ -20,9 +20,19 @@ I ❤️ Code, Java and Creative Software🍀
 
 <br/>
 
-## 📗Education
-- KH정보교육원 웹 애플리케이션 개발자 양성과정 (Nov 2023-Apr 2024)
+## 📝 Project
+- 병원어때, 병원 정보 조회 및 예약 서비스(팀) (Feb 2023)
+- 애픔팜, 애플 중고제품 거래 서비스(팀) (Mar 2024-Apr 2024)
+- 타임인사이트, 전문가 시간경매 서비스(개인) (Mar 2024-Apr 2024)
+- 댕댕네임, 반려동물 이름 통계 정보 제공 서비스(개인) (May 2024-Jun 2024)
 
+<br/>
+
+## 📗Education & Courses 
+- [KH정보교육원] 웹 애플리케이션 개발자 양성과정 (Nov 2023-Apr 2024)
+- [Inflearn] 스프링, 스프링 부트, JPA 실무 정복 로드맵 (Jun 2024-present)
+- [Inflearn] 데브옵스 인프라, AWS (Jun 2024-present)
+ 
 <br/>
 
 ## 🏃🏻‍♂️Activities
