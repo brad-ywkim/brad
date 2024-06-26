@@ -31,7 +31,6 @@
 
 ## 📗Education & Courses 
 - JAVA 웹 애플리케이션 개발자 양성과정 - KH정보교육원 (Nov 2023-Apr 2024)
-- 데브옵스 인프라, AWS 과정 - Inflearn (Jun 2024-present)
 
 
 
