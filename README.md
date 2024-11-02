@@ -6,7 +6,9 @@
 <br/>
 
 ## 💻 I Love
-- Information Security, Web, Technology
+- Information Security
+- Web Development
+- Technology
 
 
 <br/>
