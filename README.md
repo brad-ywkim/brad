@@ -1,6 +1,6 @@
 ## Hello world! I'm Brad👋
 
-[![Email](https://img.shields.io/badge/Email-dev.jadekim@gmail.com-red)](mailto:brad.ywkim@gmail.com)
+[![Email](https://img.shields.io/badge/Email-brad.ywkim@gmail.com-red)](mailto:brad.ywkim@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsprintkim%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/>
