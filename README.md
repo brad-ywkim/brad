@@ -8,13 +8,6 @@
 ## 💻 I Love
 - Information Security, Web, Technology
 
-<br/>
-
-## 📝 Project
-- 병원어때 - 병원 정보 조회 및 예약 서비스(팀) (Feb 2023)
-- 애플팜 - 애플 중고제품 거래 서비스(팀) (Mar 2024-Apr 2024)
-- 타임인사이트 - 전문가 시간경매 서비스(개인) (Mar 2024-Apr 2024)
-- [멍냥이름](https://petname.site/) - 대한민국 반려동물 이름 검색 서비스(개인) (May 2024-Jun 2024)
 
 <br/>
 
@@ -24,6 +17,17 @@
 - STEP 네트워크 보안 전문가 (Oct 2024)
 - Security Blue Team - PowerShell Course (Oct 2024)
 - KH정보교육원 JAVA 웹 애플리케이션 개발자 양성과정 (Nov 2023-Apr 2024)
+
+
+<br/>
+
+## 📝 Project
+- KISA AI 보안관제, 시스템/네트워크/웹 취약점 분석 및 대응방안 도출 (Oct 2024)
+- KISA AI 보안관제, 웹 로그 이상행위 탐지를 위한 AI 학습 모델 구축 (Oct 2024)
+- 병원어때 - 병원 정보 조회 및 예약 서비스(팀) (Feb 2023)
+- 애플팜 - 애플 중고제품 거래 서비스(팀) (Mar 2024-Apr 2024)
+- 타임인사이트 - 전문가 시간경매 서비스(개인) (Mar 2024-Apr 2024)
+- [멍냥이름](https://petname.site/) - 대한민국 반려동물 이름 검색 서비스(개인) (May 2024-Jun 2024)
 
 
 <br/>
