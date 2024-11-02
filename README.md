@@ -1,23 +1,12 @@
 ## Hello world! I'm Brad👋
 
-[![Email](https://img.shields.io/badge/Email-dev.jadekim@gmail.com-red)](mailto:dev.jadekim@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dev.jadekim@gmail.com-red)](mailto:brad.ywkim@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsprintkim%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/>
 
-## 💻 Technologies I Love
-- Backend Web Development
-
-<br/>
-
-## 🧑‍💻 Tech Stack
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
-[![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
-
+## 💻 I Love
+- Information Security, Web, Technology
 
 <br/>
 
@@ -30,10 +19,22 @@
 <br/>
 
 ## 📗Education & Courses 
-- JAVA 웹 애플리케이션 개발자 양성과정 - KH정보교육원 (Nov 2023-Apr 2024)
+- KISA AI 보안관제 전문인력 양성과정 (Oct 2024-Nov 2024)
+- 케이쉴드 주니어 Start-Up (Oct 2024)
+- STEP 네트워크 보안 전문가 (Oct 2024)
+- Security Blue Team - PowerShell Course (Oct 2024)
+- KH정보교육원 JAVA 웹 애플리케이션 개발자 양성과정 (Nov 2023-Apr 2024)
 
 
+<br/>
 
+## 🧑‍💻 Tech Stack
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+[![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
 
 
 <!--
